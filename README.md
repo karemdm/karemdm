@@ -1,6 +1,7 @@
 # Karem Daiane Marcomini, Ph.D.
 
 **Senior AI & Computer Vision Engineer**
+
 Senior AI & Computer Vision Engineer and PhD in Computer Science with 10+ years of expertise spanning industrial applications and medical imaging. Specialized in end-to-end development of deep learning models (classification, object detection, instance/semantic segmentation, tracking) and traditional image processing for complex industrial safety, quality control, and OCR systems. Combining strong academic research with practical experience in deploying Computer Vision systems for the market.
 
 ---
