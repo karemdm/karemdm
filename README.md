@@ -33,6 +33,9 @@ Senior AI and Computer Vision Engineer with a Ph.D. in Computer Science and over
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**Pedestrian-Vehicle Proximity Alert**](https://github.com/karemdm/pedestrian-vehicle-proximity-alert) | Proximity alerts between pedestrians and vehicles combining YOLO tracking with monocular depth. | YOLO · Depth Anything V2 · OpenCV |
+| [**Directional Line-Crossing Counter**](https://github.com/karemdm/directional-line-crossing-counter) | Counts people and vehicles crossing user-drawn lines by direction (IN/OUT), with optional face blurring. | YOLOv8 · BoT-SORT · OpenCV · Tkinter |
+| [**Crowd Heatmap Analytics**](https://github.com/karemdm/crowd-heatmap-analytics) | Crowd movement heatmaps, trajectories and occupancy statistics from video. | YOLO · ByteTrack · OpenCV |
 | [**Lung Opacity Localization**](https://github.com/karemdm/lung-opacity-localization) | Lung opacity localization in chest X-rays with YOLOv5, YOLOX, WBF ensemble and CNN classifiers. | PyTorch · TensorFlow · YOLOv5 · YOLOX |
 | [**Small Person Pose (YOLOv8)**](https://github.com/karemdm/small-person-pose-yolov8) | Sliding-window and dynamic-crop YOLOv8 pipelines for small person detection and pose estimation in video. | YOLOv8 · SAHI · SORT · OpenCV |
 | [**YOLO + OpenCV Tracking**](https://github.com/karemdm/yolo-opencv-tracking) | Person tracking with YOLO detection and OpenCV single-object trackers, with annotated video output. | YOLO · OpenCV · NumPy |
