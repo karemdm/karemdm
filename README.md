@@ -33,7 +33,8 @@ Senior AI and Computer Vision Engineer with a Ph.D. in Computer Science and over
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**PPE Compliance VLM**](https://github.com/karemdm/ppe-compliance-vlm) | PPE compliance in video: paired-class YOLO PPE models (worn / not worn), person tracking, 3 s temporal confirmation and VLM-generated reports. | YOLOv8 · YOLO26 · ByteTrack · Idefics2 · Streamlit |
+| [**PPE Compliance VLM**](https://github.com/karemdm/ppe-compliance-vlm) | PPE compliance in video: paired-class YOLO PPE models (worn / not worn), person tracking, 3 s temporal confirmation and a VLM double-check of each flagged worker. | YOLOv8 · YOLO26 · ByteTrack · SmolVLM / Idefics2 · Streamlit |
+| [**Fall Detection Alert**](https://github.com/karemdm/fall-detection-alert) | Rule-based fall alerts from YOLO pose keypoints and tracking, with a per-person state machine (upright → falling → fallen → alert). | YOLO11-pose · ByteTrack · OpenCV |
 | [**Pedestrian-Vehicle Proximity Alert**](https://github.com/karemdm/pedestrian-vehicle-proximity-alert) | Proximity alerts between pedestrians and vehicles combining YOLO tracking with monocular depth. | YOLO · Depth Anything V2 · OpenCV |
 | [**Directional Line-Crossing Counter**](https://github.com/karemdm/directional-line-crossing-counter) | Counts people and vehicles crossing user-drawn lines by direction (IN/OUT), with optional face blurring. | YOLOv8 · BoT-SORT · OpenCV · Tkinter |
 | [**Crowd Heatmap Analytics**](https://github.com/karemdm/crowd-heatmap-analytics) | Crowd movement heatmaps, trajectories and occupancy statistics from video. | YOLO · ByteTrack · OpenCV |
