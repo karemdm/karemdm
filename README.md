@@ -33,6 +33,7 @@ Senior AI and Computer Vision Engineer with a Ph.D. in Computer Science and over
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**NutriLabel OCR**](https://github.com/karemdm/nutrilabel-ocr) | Reads nutrition facts tables from product photos (EU, US and Brazilian labels, 16 languages) with 14 interchangeable OCR engines, a layout-aware extractor, nutritional sanity checks, CLI + web UI and a benchmark on ~3k real Open Food Facts photos. | PaddleOCR · RapidOCR · Tesseract · docTR · olmOCR / GLM-OCR (VLMs) · Python |
 | [**PPE Compliance VLM**](https://github.com/karemdm/ppe-compliance-vlm) | PPE compliance in video: paired-class YOLO PPE models (worn / not worn), person tracking, 3 s temporal confirmation and a VLM double-check of each flagged worker. | YOLOv8 · YOLO26 · ByteTrack · SmolVLM / Idefics2 · Streamlit |
 | [**Fall Detection Alert**](https://github.com/karemdm/fall-detection-alert) | Rule-based fall alerts from YOLO pose keypoints and tracking, with a per-person state machine (upright → falling → fallen → alert). | YOLO11-pose · ByteTrack · OpenCV |
 | [**Pedestrian-Vehicle Proximity Alert**](https://github.com/karemdm/pedestrian-vehicle-proximity-alert) | Proximity alerts between pedestrians and vehicles combining YOLO tracking with monocular depth. | YOLO · Depth Anything V2 · OpenCV |
