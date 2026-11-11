@@ -67,4 +67,4 @@ Senior AI and Computer Vision Engineer with a Ph.D. in Computer Science and over
 
 ---
 
-<sub>📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/karem-marcomini/?locale=en_US)</sub>
+📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/karem-marcomini/?locale=en_US)</sub>
