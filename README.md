@@ -80,7 +80,7 @@ Projects marked **demo** have a page on the portfolio with a recording of the sy
 ## 🎓 Education
 
 - **Postdoctorate in Computer Science** (AI & deep learning) — University of São Paulo (USP), 2020 – 2022
-- **Ph.D. in Sciences** (image processing & machine learning) — USP, 2013 – 2017
+- **Ph.D. in Computer Science** (image processing & machine learning) — USP, 2013 – 2017
 - **M.Sc. in Sciences** (image processing & machine learning) — USP, 2011 – 2013
 - **B.S. in Computer Science** — Unisagrado, Bauru, 2006 – 2009
 
