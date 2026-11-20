@@ -5,8 +5,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-karemdm.github.io-0A66C2?style=flat-square)](https://karemdm.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-karem--marcomini-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/karem-marcomini/?locale=en_US)
 [![Lattes](https://img.shields.io/badge/Lattes-CV-2E7D32?style=flat-square)](http://lattes.cnpq.br/9252140833340424)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-citations-4285F4?style=flat-square)](https://scholar.google.com/citations?user=eMh5PGEAAAAJ)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8594--4654-A6CE39?style=flat-square)](https://orcid.org/0000-0002-8594-4654)
 
 Senior AI and Computer Vision Engineer with a Ph.D. and 10+ years of experience across industrial applications and medical imaging. I build end-to-end deep learning solutions (classification, detection, instance and semantic segmentation, tracking and OCR), from data to production inference with ONNX, TensorRT and NVIDIA Triton.
 
