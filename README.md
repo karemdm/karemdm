@@ -37,20 +37,18 @@ Senior AI and Computer Vision Engineer with a Ph.D. and 10+ years of experience 
 
 ## 🚀 Featured Projects
 
-Projects marked **demo** have a page on the portfolio with a recording of the system running.
-
 | Project | What it does | Stack |
 |---|---|---|
-| [**NutriLabel OCR**](https://github.com/karemdm/nutrilabel-ocr) · [demo](https://karemdm.github.io/projects/nutrilabel-ocr/) | Reads nutrition facts tables from product photos (EU, US and Brazilian labels, 16 languages) with 14 interchangeable OCR engines, a layout-aware extractor, nutritional sanity checks, CLI + web UI and a benchmark on ~3k real Open Food Facts photos. | PaddleOCR · RapidOCR · Tesseract · docTR · olmOCR / GLM-OCR (VLMs) · Python |
-| [**PPE Compliance VLM**](https://github.com/karemdm/ppe-compliance-vlm) · [demo](https://karemdm.github.io/projects/ppe-compliance-vlm/) | PPE compliance in video: paired-class YOLO PPE models (worn / not worn), person tracking, 3 s temporal confirmation and a VLM double-check of each flagged worker. | YOLOv8 · YOLO26 · ByteTrack · SmolVLM / Idefics2 · Streamlit |
-| [**Fall Detection Alert**](https://github.com/karemdm/fall-detection-alert) · [demo](https://karemdm.github.io/projects/fall-detection-alert/) | Rule-based fall alerts from YOLO pose keypoints and tracking, with a per-person state machine (upright → falling → fallen → alert). | YOLO11-pose · YOLO26-pose · ByteTrack · OpenCV |
+| [**NutriLabel OCR**](https://github.com/karemdm/nutrilabel-ocr) | Reads nutrition facts tables from product photos (EU, US and Brazilian labels, 16 languages) with 14 interchangeable OCR engines, a layout-aware extractor, nutritional sanity checks, CLI + web UI and a benchmark on ~3k real Open Food Facts photos. | PaddleOCR · RapidOCR · Tesseract · docTR · olmOCR / GLM-OCR (VLMs) · Python |
+| [**PPE Compliance VLM**](https://github.com/karemdm/ppe-compliance-vlm) | PPE compliance in video: paired-class YOLO PPE models (worn / not worn), person tracking, 3 s temporal confirmation and a VLM double-check of each flagged worker. | YOLOv8 · YOLO26 · ByteTrack · SmolVLM / Idefics2 · Streamlit |
+| [**Fall Detection Alert**](https://github.com/karemdm/fall-detection-alert) | Rule-based fall alerts from YOLO pose keypoints and tracking, with a per-person state machine (upright → falling → fallen → alert). | YOLO11-pose · YOLO26-pose · ByteTrack · OpenCV |
 | [**Pedestrian-Vehicle Proximity Alert**](https://github.com/karemdm/pedestrian-vehicle-proximity-alert) | Proximity alerts between pedestrians and vehicles combining YOLO tracking with monocular depth. | YOLO · Depth Anything V2 · OpenCV |
 | [**Directional Line-Crossing Counter**](https://github.com/karemdm/directional-line-crossing-counter) | Counts people and vehicles crossing user-drawn lines by direction (IN/OUT), with settings for small, distant people and optional face blurring. | YOLOv8 · BoT-SORT · OpenCV · Tkinter |
 | [**Crowd Heatmap Analytics**](https://github.com/karemdm/crowd-heatmap-analytics) | Crowd movement heatmaps, trajectories and occupancy statistics from video. | YOLO · ByteTrack · OpenCV |
 | [**Lung Opacity Localization**](https://github.com/karemdm/lung-opacity-localization) | Lung opacity localization in chest X-rays with YOLOv5, YOLOX, WBF ensemble and CNN classifiers ([BDCC 2024](https://doi.org/10.3390/bdcc8080084)). | PyTorch · TensorFlow · YOLOv5 · YOLOX |
 | [**Small Person Pose (YOLOv8)**](https://github.com/karemdm/small-person-pose-yolov8) | Sliding-window and dynamic-crop YOLOv8 pipelines for small person detection and pose estimation in video. | YOLOv8 · SAHI · SORT · OpenCV |
 | [**YOLO + OpenCV Tracking**](https://github.com/karemdm/yolo-opencv-tracking) | Person tracking with YOLO detection and OpenCV single-object trackers, with annotated video output. | YOLO · OpenCV · NumPy |
-| [**Video Frame Picker**](https://github.com/karemdm/video-frame-picker) · [demo](https://karemdm.github.io/projects/video-frame-picker/) | Two keyboard-driven desktop tools for building image datasets: save chosen frames from a video, then curate a folder of photos. Example video and photos included. | OpenCV · Tkinter · Pillow |
+| [**Video Frame Picker**](https://github.com/karemdm/video-frame-picker) | Two keyboard-driven desktop tools for building image datasets: save chosen frames from a video, then curate a folder of photos. Example video and photos included. | OpenCV · Tkinter · Pillow |
 
 ---
 
